@@ -1,6 +1,6 @@
 # slides
 
-An out-of-box markdown slideshow toolkit via [remark](https://github.com/gnab/remark)
+An out-of-box markdown slideshow toolkit via [remark](https://github.com/gnab/remark), [here is a example](https://vtta.github.io/slides/2.html).
 
 ## usage
 
